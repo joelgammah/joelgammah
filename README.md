@@ -9,7 +9,7 @@
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=joelgammah&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
-   <a href="www.linkedin.com/in/joelgammah" target="_blank">
+   <a href="http://linkedin.com/in/joelgammah" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-JoelGammah-blue?style=flat&logo=linkedin">
    </a>
    <a href="https://github.com/joelgammah" target="_blank">
