@@ -9,7 +9,7 @@
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=joelgammah&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
-   <a href="https://linkedin.com/in/joelgammah" target="_blank">
+   <a href="www.linkedin.com/in/joelgammah" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-JoelGammah-blue?style=flat&logo=linkedin">
    </a>
    <a href="https://github.com/joelgammah" target="_blank">
@@ -72,8 +72,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelgammah&show_icons=true&theme=radical" width="48%" alt="Joel's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelgammah&theme=radical" width="48%" alt="Joel's Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joelgammah&theme=radical" width="48%" alt="Joel's GitHub Stats Summary">
 </p>
 
 <p align="center">
