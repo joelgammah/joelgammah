@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Junior at Wofford College** — Computer Science Major, Mathematics Minor
-- 👨‍💻 **Currently Building**: [Tiny Towns Game](https://github.com/joelgammah/project-tiny-towns.git), Course Tracker & Drip Out 
+- 👨‍💻 **Currently Building**: [Tiny Towns Game](https://github.com/joelgammah/COSC335-TicTacToe.git), Course Tracker & Drip Out 
 - 💡 **Tech Enthusiast**: Passionate about solving problems with software solutions.
 - 🌱 **Learning**: Scaling systems, Cloud architecture, and improving my full-stack development skills.
 - 🤝 **Open to Collaborations**: Web, mobile, and AI/ML projects.
@@ -86,7 +86,7 @@ Here are some cool projects I’ve worked on:
 
 | Project | Description | Tech Stack |
 |---------|------------|-----------|
-| **[Tiny Towns Game](https://github.com/joelgammah/project-tiny-towns.git)** | Solo play Tiny Towns Game | HTML/CSS, JavaScript, PHP, Visual Basic, MySQL, Docker, Flask |
+| **[Tiny Towns Game](https://github.com/joelgammah/COSC335-TicTacToe.git)** | Solo play Tiny Towns Game | JavaScript, React, Vite, Tailwind CSS, Zustand, Docker, Google Firebase  |
 | **[Food Insecurity Dashboard](https://public.tableau.com/views/FoodInsecurityDashboard_CTLevel/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Interactive Tableau dashboard visualizing food insecurity trends | Python, SQL, Tableau |
 | **[JobMan - Job Search App](https://github.com/joelgammah/job_search_app.git)** | Cross-platform mobile app for job seekers | React Native, REST API, Expo |
 | **[DIJ Wiki](https://github.com/your-project-link)** | Wiki-style website built with Flask & GCP | Python, Flask, Google Cloud |
