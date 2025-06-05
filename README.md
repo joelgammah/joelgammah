@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Joel Gammah!</h1>
-<h3 align="center">🚀 Software Engineer | Problem-Solver | Tech Enthusiast </h3>
+<h3 align="center"> Software Engineer | Problem-Solver </h3>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=joelgammah&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
@@ -21,12 +21,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Junior at Wofford College** — Computer Science Major, Mathematics Minor
+- 🎓 **Senior at Wofford College** — Computer Science Major, Mathematics Minor
 - 👨‍💻 **Currently Building**: [Tiny Towns Game](https://github.com/joelgammah/COSC335-TicTacToe.git), Course Tracker & Drip Out 
-- 💡 **Tech Enthusiast**: Passionate about solving problems with software solutions.
-- 🌱 **Learning**: Scaling systems, Cloud architecture, and improving my full-stack development skills.
-- 🤝 **Open to Collaborations**: Web, mobile, and AI/ML projects.
-- 😄 **Pronouns**: He / Him
+- 🌱 **Learning**: Software Development, Machine Learning, Scaling systems, Cloud architecture, and improving my full-stack development skills.
+- 🤝 **Open to Collaborations**: Web, Mobile, and AI/ML projects.
 - ⚡ **Fun Fact**: For the past three years, I've been a volunteer tutor at the Spartanburg Adult Learning Center.
 
 📫 **Reach me at**: **joelgammah@gmail.com**  
@@ -44,7 +42,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
 
 #### 📌 **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
@@ -86,9 +83,9 @@ Here are some cool projects I’ve worked on:
 
 | Project | Description | Tech Stack |
 |---------|------------|-----------|
-| **[Tiny Towns Game](https://github.com/joelgammah/COSC335-TicTacToe.git)** | Solo play Tiny Towns Game | JavaScript, React, Vite, Tailwind CSS, Zustand, Docker, Google Firebase  |
+| **[Tiny Towns Game](https://github.com/joelgammah/Tiny_Towns_Game)** | Solo play Tiny Towns Game | JavaScript, React, Vite, Tailwind CSS, Zustand, Docker, Google Firebase  |
 | **[Food Insecurity Dashboard](https://public.tableau.com/views/FoodInsecurityDashboard_CTLevel/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Interactive Tableau dashboard visualizing food insecurity trends | Python, SQL, Tableau |
-| **[JobMan - Job Search App](https://github.com/joelgammah/job_search_app.git)** | Cross-platform mobile app for job seekers | React Native, REST API, Expo |
+| **[JobMan - Job Search App](https://github.com/joelgammah/job_search_app.git)** | Cross-platform mobile app for job seekers | JavaScript, React Native, REST API, Expo |
 | **[DIJ Wiki](https://github.com/your-project-link)** | Wiki-style website built with Flask & GCP | Python, Flask, Google Cloud |
 | **[VM to Symphony Converter](https://github.com/joelgammah/VM-to-Symphony-Translator.git)** | Translates VM code to Symphony Assembly Language | Python |
 
